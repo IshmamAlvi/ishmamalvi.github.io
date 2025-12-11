@@ -13,7 +13,7 @@ My recent work proposes defense strategies against multimodal poisoning attacks,
 
 I interned at GE Healthcare (2024), where I helped build one of the largest medical image-text datasets (2M pairs) across CT, MR, and ultrasound modalities, and contributed to designing a state-of-the-art multimodal medical foundation model. In 2025, I joined Futurewei Technologies as a research intern to develop self-evolving RAG architectures and reference-free hallucination mitigation frameworks for enterprise applications. 
 
-**I am looking for full time applied scientist, research scientist, research engineer, postdoc position.**
+**I am actively looking for full time applied scientist, research scientist, research engineer, postdoc position from spring 2026**
 
 🚀 **Recent Highlights**
 
