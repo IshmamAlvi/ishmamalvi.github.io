@@ -17,6 +17,8 @@ I interned at GE Healthcare (2024), where I helped build one of the largest medi
 
 🚀 **Recent Highlights**
 
+**Feb 2026** Our paper on model immunization accepted in **CVPR 2026**
+
 **Dec 2025**: Our paper on Universal Adversarial Perturbations for Multi-Image Tasks accepted in **AAAI 2026**
 
 **May 2025**: Started internship on Futurewei Research
