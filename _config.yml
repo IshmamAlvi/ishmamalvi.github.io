@@ -26,9 +26,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Alvi Md Ishmam"
   # pronouns         : # example: "  
-  bio              : "CS PhD Candidate, Virginia Tech"
-  location         : "Blacksburg, VA"
-  employer         : "Virginia Tech"
+  bio              : "AI Researcher, Argonne National Lab"
+  location         : "Lemont, IL"
+  employer         : "Argonne National Lab"
   uri              : # URL
   email            : "alvi@vt.edu" 
 
