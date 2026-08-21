@@ -17,7 +17,7 @@ I interned at GE Healthcare (2024), where I helped build one of the largest medi
 
 🚀 **Recent Highlights**
 
-**August 2026** Our paper on multimodal multidocument event extraction and coreference resolution benchmark accepted in **EMNLP 2026** Main
+**August 2026**: Our paper on multimodal multidocument event extraction and coreference resolution benchmark accepted in **EMNLP 2026** Main
 
 **April 2026**: Our paper on audio attack for trimodel model accepted in **ACL 2026** Main
 
